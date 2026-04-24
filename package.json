@@ -1,0 +1,10 @@
+{
+  "name": "subdomain-finder",
+  "version": "1.0.0",
+  "description": "Discover subdomains for any domain",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  }
+}

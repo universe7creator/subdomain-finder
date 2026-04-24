@@ -1,0 +1,43 @@
+{
+  "name": "Subdomain Finder",
+  "slug": "subdomain-finder",
+  "tagline": "Discover hidden subdomains for any domain",
+  "description": "Discover subdomains for any domain. Security reconnaissance tool for penetration testers and security researchers.",
+  "price": 19,
+  "tech_stack": [
+    "Next.js",
+    "TypeScript",
+    "Tailwind CSS"
+  ],
+  "category": "security",
+  "tags": [
+    "subdomain",
+    "reconnaissance",
+    "security",
+    "pentest",
+    "discovery",
+    "enumeration"
+  ],
+  "status": "ready_to_deploy",
+  "version": "1.0.0",
+  "features": [
+    "Subdomain enumeration via DNS queries",
+    "Common subdomain wordlist scanning",
+    "Wildcard detection",
+    "HTTP response status checking",
+    "IP address resolution",
+    "Export results to TXT/JSON",
+    "Fast multi-threaded scanning",
+    "Discover hidden services and endpoints"
+  ],
+  "created_at": "2026-04-21T22:30:00Z",
+  "updated_at": "2026-04-21T22:30:00Z",
+  "checkout_url": "https://buy.polar.sh/polar_cl_LIcp0EWuDJvbPa56gAT98eCNeu5RwHNmv5Mjv2NhQlR",
+  "spec_version": "1.0",
+  "vercel_url": "https://subdomain-finder.vercel.app",
+  "deployed_cycle": 1108,
+  "payment_provider": "polar",
+  "polar_product_id": "7ac49f9a-5f3d-4093-83e0-78403e5dd9f5",
+  "polar_product_price_id": "33aad178-d4f7-4233-ade6-d491d1967e9b",
+  "polar_checkout_link_id": "7a6bfd38-a661-4975-be54-69fdbbb073c0"
+}
