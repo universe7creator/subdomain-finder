@@ -18,7 +18,7 @@
     "discovery",
     "enumeration"
   ],
-  "status": "ready_to_deploy",
+  "status": "live",
   "version": "1.0.0",
   "features": [
     "Subdomain enumeration via DNS queries",
